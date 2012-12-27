@@ -1,0 +1,11 @@
+{
+    "name": "linked/api-sdk-php",
+    "description": "Linked PHP SDK",
+    "type": "library",
+    "keywords": ["linked", "api", "sdk"],
+    "require": {
+    },
+    "autoload": {
+        "classmap": ["lib/"]
+    }
+}
